@@ -19,5 +19,6 @@ Let's first break down the system into several parts.
 
 3. Generalize it to 3D vision.
 
-   The actual advance of immersive interactive experience lies in generalizing it from 2D to 3D. If you can make the 2D screen into 3D and wear a 3D eye glasses to see. 
+   The actual advance of immersive interactive experience lies in generalizing it from 2D to 3D. If you can make the 2D screen into 3D and wear a 3D eye glasses to see.
+   This is basically a 3D desktop environment, where it can interface with the file system. The goal is simply connect the mac with such system.
    
