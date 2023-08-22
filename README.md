@@ -16,4 +16,8 @@ Let's first break down the system into several parts.
    The first step to make a prototype is just making the hand gesture to replace the touch pad.
 
    If this is successful, then you can generalize it to more operating system control.
+
+3. Generalize it to 3D vision.
+
+   The actual advance of immersive interactive experience lies in generalizing it from 2D to 3D. If you can make the 2D screen into 3D and wear a 3D eye glasses to see. 
    
